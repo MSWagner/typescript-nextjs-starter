@@ -6,7 +6,7 @@ import styles from "@/styles/Home.module.css";
 export default function Home() {
     return (
         <div className={styles.container}>
-            <p className="top-44 text-7xl">test</p>
+            <p className="text-4xl top-44">test</p>
             <Head>
                 <title>TypeScript starter for Next.js</title>
                 <meta
